@@ -30,3 +30,9 @@ This project is a simple cloud backup service that allows users to upload, list,
 1. Navigate to the `backend` folder:
    ```bash
    cd backend
+   
+2. Install Required Python Packages:
+   '''bash
+   pip install flask boto3 flask-cors python-dotenv
+   
+  
