@@ -2,6 +2,9 @@
 
 This project is a cloud backup service that allows users to upload, list, and download files using **AWS S3**. It features a **Flask backend** API and a **React frontend** user interface.
 
+
+https://github.com/user-attachments/assets/73f80f66-5202-4e83-b529-d535d714abef
+
 ---
 
 ## Hosted Links
@@ -46,7 +49,7 @@ This project is a cloud backup service that allows users to upload, list, and do
 
 ## Backend Setup (Flask)
 
-1. **Navigate to the `backend` folder:**
+ **Navigate to the `backend` folder:**
 
    ```bash
    cd backend
